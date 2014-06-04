@@ -50,7 +50,7 @@ public class Ldap_test {
 				System.err.println("  " + loginexception.getMessage());
 				try {
 					Thread.currentThread();
-					Thread.sleep(3000);
+					Thread.sleep(2500);
 				} catch (Exception e) {
 
 				}
